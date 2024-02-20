@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ryu/Modern-Cpp/lecture1/my_lib/build",
+  "command": "/usr/bin/c++   -I/home/ryu/Modern-Cpp/lecture1/my_lib/.    -o CMakeFiles/main.dir/main.cpp.o -c /home/ryu/Modern-Cpp/lecture1/my_lib/main.cpp",
+  "file": "/home/ryu/Modern-Cpp/lecture1/my_lib/main.cpp"
+},
+{
+  "directory": "/home/ryu/Modern-Cpp/lecture1/my_lib/build",
+  "command": "/usr/bin/c++   -I/home/ryu/Modern-Cpp/lecture1/my_lib/.    -o CMakeFiles/tools.dir/tools.cpp.o -c /home/ryu/Modern-Cpp/lecture1/my_lib/tools.cpp",
+  "file": "/home/ryu/Modern-Cpp/lecture1/my_lib/tools.cpp"
+}
+]

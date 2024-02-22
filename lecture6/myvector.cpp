@@ -104,8 +104,13 @@ int main(){
     cout << "Dot(v2,v3)  : " << MyVector::Dot(v2,v3) << endl;
 
     std::vector<MyVector> myvectors = {v2,v3,v1,v1};
+    cout << "Before \n";
+    for( const auto& myvector : myvectors){
+        cout << myvector << endl;
+    }    
     std::sort(myvectors.begin(),myvectors.end());
-
+    
+    cout << "After \n";
     for( const auto& myvector : myvectors){
         cout << myvector << endl;
     }

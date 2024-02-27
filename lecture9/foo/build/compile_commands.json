@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ryu/Modern-Cpp/lecture9/foo/build",
+  "command": "/usr/bin/c++   -I/home/ryu/Modern-Cpp/lecture9/foo/.    -std=gnu++17 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/ryu/Modern-Cpp/lecture9/foo/src/main.cpp",
+  "file": "/home/ryu/Modern-Cpp/lecture9/foo/src/main.cpp"
+}
+]

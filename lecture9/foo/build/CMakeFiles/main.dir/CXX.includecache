@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ryu/Modern-Cpp/lecture9/foo/src/Foo.hpp
+Foo_impl.hpp
+/home/ryu/Modern-Cpp/lecture9/foo/src/Foo_impl.hpp
+
+/home/ryu/Modern-Cpp/lecture9/foo/src/Foo_impl.hpp
+
+/home/ryu/Modern-Cpp/lecture9/foo/src/main.cpp
+iostream
+-
+Foo.hpp
+/home/ryu/Modern-Cpp/lecture9/foo/src/Foo.hpp
+
